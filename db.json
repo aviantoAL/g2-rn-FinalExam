@@ -1,0 +1,16 @@
+{
+    "shibes": [
+      {
+        "image": "https://cdn.shibe.online/shibes/3fc5101c07e1af3db7bd1133e1571ce22747101a.jpg",
+        "id": "1"
+      },
+      {
+        "image": "https://cdn.shibe.online/shibes/a3a873a3c4cf818d5c9c28e7f6e31bc9570bcd95.jpg",
+        "id": "2"
+      },
+      {
+        "image": "https://cdn.shibe.online/shibes/ece4a059a4867c4130edce7256ee572c0efb346e.jpg",
+        "id": "3"
+      }
+    ]
+}
