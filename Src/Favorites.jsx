@@ -38,7 +38,7 @@ const Favorites = () => {
           source={{ uri: item.image }}
           style={styles.image}
         />
-        <Text style={styles.deleteText}>Tap to delete</Text>
+        <Text style={styles.deleteText}>klik to delete</Text>
       </View>
     </TouchableOpacity>
   );
